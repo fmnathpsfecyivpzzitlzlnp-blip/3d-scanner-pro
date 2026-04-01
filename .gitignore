@@ -1,0 +1,15 @@
+# --- Мусор Python и Сервера ---
+backend_server/__pycache__/
+backend_server/.venv/
+backend_server/venv/
+backend_server/uploaded_videos/
+backend_server/extracted_frames/
+backend_server/output_meshes/
+
+# --- Мусор Flutter ---
+mobile_app/.dart_tool/
+mobile_app/build/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/.pub-cache/
+mobile_app/.pub/
